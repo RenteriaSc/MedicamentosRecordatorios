@@ -16,14 +16,7 @@ Repositorio de proyecto final de algoritmos y programación
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅  REQUISITOS DEL SISTEMA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  Sistema operativo:
-  ──────────────────
-    ✔  Windows 10 o superior
-    ✔  macOS 10.14 o superior
-    ✔  Linux (Ubuntu, Debian, Fedora, etc.)
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Python:
   ───────
     ✔  Python 3.6 o superior  (obligatorio)
